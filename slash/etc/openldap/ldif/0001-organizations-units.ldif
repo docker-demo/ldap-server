@@ -1,0 +1,29 @@
+dn: ou=groups,dc=demo,dc=docker,dc=com
+ou: groups
+description: Groups
+objectClass: top
+objectClass: organizationalUnit
+
+dn: ou=docker-ee,ou=groups,dc=demo,dc=docker,dc=com
+ou: docker-ee
+description: Docker EE groups
+objectClass: top
+objectClass: organizationalUnit
+
+dn: ou=people,ou=groups,dc=demo,dc=docker,dc=com
+ou: people
+description: People groups
+objectclass: top
+objectclass: organizationalUnit
+
+dn: ou=people,dc=demo,dc=docker,dc=com
+ou: people
+description: People
+objectClass: top
+objectClass: organizationalUnit
+
+dn: ou=service-accounts,dc=demo,dc=docker,dc=com
+ou: service-accounts
+description: Service Accounts
+objectClass: top
+objectClass: organizationalUnit

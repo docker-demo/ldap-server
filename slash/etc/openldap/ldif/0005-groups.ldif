@@ -1,0 +1,36 @@
+dn: cn=platform-admins,ou=docker-ee,ou=groups,dc=demo,dc=docker,dc=com
+cn: platform-admins
+description: Docker EE Platform Administrators
+member: cn=Moby Dock,ou=people,dc=demo,dc=docker,dc=com
+objectclass: groupOfNames
+objectclass: top
+
+dn: cn=developers,ou=groups,dc=demo,dc=docker,dc=com
+cn: developers
+description: Developers
+member: cn=Go Gopher,ou=people,dc=demo,dc=docker,dc=com
+member: cn=Gordon Turtle,ou=people,dc=demo,dc=docker,dc=com
+objectclass: groupOfNames
+objectclass: top
+
+dn: cn=operations,ou=groups,dc=demo,dc=docker,dc=com
+cn: operations
+description: Operations
+member: cn=Tux Penguin,ou=people,dc=demo,dc=docker,dc=com
+member: cn=Willy Orca,ou=people,dc=demo,dc=docker,dc=com
+objectclass: groupOfNames
+objectclass: top
+
+dn: cn=quality-assurance,ou=groups,dc=demo,dc=docker,dc=com
+cn: quality-assurance
+description: Quality Assurance
+member: cn=Hermit Crab,ou=people,dc=demo,dc=docker,dc=com
+objectclass: groupOfNames
+objectclass: top
+
+dn: cn=security,ou=groups,dc=demo,dc=docker,dc=com
+cn: security
+description: Security
+member: cn=Oscar Oyster,ou=people,dc=demo,dc=docker,dc=com
+objectclass: groupOfNames
+objectclass: top

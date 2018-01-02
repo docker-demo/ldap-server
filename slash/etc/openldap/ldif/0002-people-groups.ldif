@@ -1,0 +1,59 @@
+dn: cn=moby,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: moby
+gidnumber: 1000
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=gordon,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: gordon
+gidnumber: 1001
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=tux,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: tux
+gidnumber: 1002
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=gopher,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: gopher
+gidnumber: 1003
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=willy,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: willy
+gidnumber: 1004
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=oscar,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: oscar
+gidnumber: 1005
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=hermit,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: hermit
+gidnumber: 1006
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=olly,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: olly
+gidnumber: 1007
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=mantis,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: mantis
+gidnumber: 1008
+objectclass: posixGroup
+objectclass: top
+
+dn: cn=manta,ou=people,ou=groups,dc=demo,dc=docker,dc=com
+cn: manta
+gidnumber: 1009
+objectclass: posixGroup
+objectclass: top

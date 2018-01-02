@@ -1,0 +1,139 @@
+dn: cn=Moby Dock,ou=people,dc=demo,dc=docker,dc=com
+cn: Moby Dock
+gidnumber: 1000
+givenname: Moby
+homedirectory: /home/users/moby
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Dock
+uid: moby
+uidnumber: 1000
+userpassword: moby-passwd
+
+dn: cn=Gordon Turtle,ou=people,dc=demo,dc=docker,dc=com
+cn: Gordon Turtle
+gidnumber: 1001
+givenname: Gordon
+homedirectory: /home/users/gordon
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Turtle
+uid: gordon
+uidnumber: 1001
+userpassword: gordon-passwd
+
+dn: cn=Tux Penguin,ou=people,dc=demo,dc=docker,dc=com
+cn: Tux Penguin 
+gidnumber: 1002
+givenname: Tux
+homedirectory: /home/users/tux
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Penguin
+uid: tux
+uidnumber: 1002
+userpassword: tux-passwd 
+
+dn: cn=Go Gopher,ou=people,dc=demo,dc=docker,dc=com
+cn: Go Gopher
+gidnumber: 1003
+givenname: Go
+homedirectory: /home/users/gopher
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Gopher
+uid: gopher
+uidnumber: 1003
+userpassword: gopher-passwd 
+
+dn: cn=Willy Orca,ou=people,dc=demo,dc=docker,dc=com
+cn: Willy Orca
+gidnumber: 1004
+givenname: Willy
+homedirectory: /home/users/willy
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Orca
+uid: willy
+uidnumber: 1004
+userpassword: willy-passwd
+
+dn: cn=Oscar Oyster,ou=people,dc=demo,dc=docker,dc=com
+cn: Oscar Oyster
+gidnumber: 1005
+givenname: Oscar
+homedirectory: /home/users/oscar
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Oyster
+uid: oscar
+uidnumber: 1005
+userpassword: oscar-passwd
+
+dn: cn=Hermit Crab,ou=people,dc=demo,dc=docker,dc=com
+cn: Hermit Crab
+gidnumber: 1006
+givenname: Hermit
+homedirectory: /home/users/hermit
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Crab
+uid: hermit
+uidnumber: 1006
+userpassword: hermit-passwd
+
+dn: cn=Olly Octopus,ou=people,dc=demo,dc=docker,dc=com
+cn: Olly Octopus
+gidnumber: 1007
+givenname: Olly
+homedirectory: /home/users/olly
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Octopus
+uid: olly
+uidnumber: 1007
+userpassword: olly-passwd
+
+dn: cn=Mantis Shrimp,ou=people,dc=demo,dc=docker,dc=com
+cn: Mantis Shrimp
+gidnumber: 1008
+givenname: Mantis
+homedirectory: /home/users/mantis
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Shrimp
+uid: mantis
+uidnumber: 1008
+userpassword: mantis-passwd
+
+dn: cn=Manta Ray,ou=people,dc=demo,dc=docker,dc=com
+cn: Manta Ray
+gidnumber: 1009
+givenname: Manta
+homedirectory: /home/users/manta
+loginshell: /bin/sh
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Ray
+uid: manta
+uidnumber: 1009
+userpassword: manta-passwd

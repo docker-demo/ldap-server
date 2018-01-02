@@ -1,0 +1,12 @@
+dn: dc=demo,dc=docker,dc=com
+dc: demo
+o: Docker Demo LDAP Server
+description: Root entry for demo.docker.com
+objectClass: top
+objectclass: dcObject
+objectclass: organization
+
+dn: cn=manager,dc=demo,dc=docker,dc=com
+cn: manager
+description: RootDN
+objectclass: organizationalRole
